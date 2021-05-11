@@ -39,11 +39,11 @@
       <artifactId>spring-boot-starter-actuator</artifactId>
     </dependency>
 	 <!-- remove this for the demo -->
-   <!-- <dependency>
+    <dependency>
       <groupId>com.fasterxml.jackson.core</groupId>
       <artifactId>jackson-databind</artifactId>
       <version>2.10.2</version>
-    </dependency> -->
+    </dependency> 
 	  
     <dependency>
       <groupId>org.springframework.boot</groupId>
